@@ -1,5 +1,9 @@
 # Brain-Tumor-Detection
 
+A project on Early detection of Brain Tumors using Machine Learning and Deep Learning,done during the course CSE3013 Artificial Intelligence at Vellore Institute of Technology,Vellore
+
+Steps to run the project
+
 1. Clone the Repository<br />
 2. If downloaded directly extract the file to your preferred location<br />
 3. Libraries Required:<br />
